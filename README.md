@@ -5,6 +5,12 @@
   <img src="https://profile-counter.glitch.me/Thusiya05/count.svg" />
 </p>
 <img src="https://webstockreview.net/images/hello-clipart-hii-1.gif" width="200" height="230">
+
+### Connect with me:
+
+[<img align="left" alt="Thusiya05 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <img src="https://github-readme-stats.vercel.app/api?username=Thusiya05&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
