@@ -1,6 +1,6 @@
 ### Hi there, I'm Thusitha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 🌱 Undergraduate at University of Colombo School of Computing
-<p align="left" style="background-color:ff44ff"> 
+<p align="left"> 
   Visitors<br>
   <img src="https://profile-counter.glitch.me/Thusiya05/count.svg" />
 </p>
@@ -31,6 +31,9 @@
 [instagram]: https://www.instagram.com/thusi_ya/
 [linkedin]: https://www.linkedin.com/in/thusitha-karunathilaka-b2379a195
 [facebook]: https://www.facebook.com/thusitha.karunathilaka.50
+
+</br>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
 <!--
