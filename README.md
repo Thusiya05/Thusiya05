@@ -1,5 +1,5 @@
 ### Hi there, I'm Thusitha👋
-- 🌱 I’m currently learning CS at UCSC...
+- 🌱 Undergraduate at University of Colombo School of Computing
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Thusiya05/count.svg" />
