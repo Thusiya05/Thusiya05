@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/Thusiya05/count.svg" />
 </p>
 </br>
-![](https://visitor-badge.glitch.me/badge?page_id=Thusiya05)
+![](https://visitor-badge.glitch.me/badge?page_id=Thusiya05.Thusiya05)
 </br>
 
 <img src="https://webstockreview.net/images/hello-clipart-hii-1.gif" width="200" height="230">
