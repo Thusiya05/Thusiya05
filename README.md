@@ -23,7 +23,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Thusiya05&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Thusitha's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Thusiya05&show_icons=true&include_all_commits=true&theme=radical" alt="Thusitha's github stats" />
 </a>
 
 </details>
