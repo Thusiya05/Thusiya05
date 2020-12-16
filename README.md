@@ -6,6 +6,9 @@
 </p>
 <img src="https://webstockreview.net/images/hello-clipart-hii-1.gif" width="200" height="230">
 <img src="https://github-readme-stats.vercel.app/api?username=Thusiya05&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-Thusiya05.vercel.app/api/spotify-playing" alt="Thusiya Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <!--
 **Thusiya05/Thusiya05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
