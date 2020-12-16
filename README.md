@@ -1,6 +1,6 @@
 ### Hi there, I'm Thusitha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 🌱 Undergraduate at University of Colombo School of Computing
-<p align="left" style="background-color:red"> 
+<p align="left" style="background-color:ff44ff"> 
   Visitors<br>
   <img src="https://profile-counter.glitch.me/Thusiya05/count.svg" />
 </p>
