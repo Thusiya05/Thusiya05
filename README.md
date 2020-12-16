@@ -6,10 +6,6 @@
 </p>
 </br>
 
-### Spotify Playing 🎧
-
-[<img src="https://music.apple.com/library/albums/l.u8wqz2r" alt="Thusiya itune Playing" width="350" />](https://music.apple.com/library/albums/l.u8wqz2r)
-</br>
 <img src="https://webstockreview.net/images/hello-clipart-hii-1.gif" width="200" height="230">
 
 
@@ -23,7 +19,12 @@
 
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thusiya05&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Thusitha's GitHub Stats" src="https://github-readme-stats.Thusiya05.vercel.app/api?username=Thusiya05&show_icons=true&hide_border=true" />
+
+</details>
 
 [instagram]: https://www.instagram.com/thusi_ya/
 [linkedin]: https://www.linkedin.com/in/thusitha-karunathilaka-b2379a195
