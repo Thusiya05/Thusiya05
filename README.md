@@ -6,7 +6,7 @@
 </p>
 </br>
 
-<img src="https://media0.giphy.com/media/3oKGzgNfssFG1xlwC4/giphy.gif?cid=ecf05e47fjraisxazww6aj3gk54e1gnz5dn8srrbisciat81&rid=giphy.gif" width="200" height="230">
+<img src="https://media0.giphy.com/media/3oKGzgNfssFG1xlwC4/giphy.gif?cid=ecf05e47fjraisxazww6aj3gk54e1gnz5dn8srrbisciat81&rid=giphy.gif" width="400" height="230">
 
 
 ### Connect with me:
