@@ -13,6 +13,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Thusiya05&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+[instagram]: https://www.instagram.com/thusi_ya/
+[linkedin]: https://www.linkedin.com/in/thusitha-karunathilaka-b2379a195
+
+
 
 <!--
 **Thusiya05/Thusiya05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
