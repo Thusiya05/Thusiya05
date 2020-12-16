@@ -1,11 +1,10 @@
 ### Hi there, I'm Thusitha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 🌱 Undergraduate at University of Colombo School of Computing
+![](https://visitor-badge.glitch.me/badge?page_id=Thusita05)
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Thusiya05/count.svg" />
 </p>
-</br>
-![](https://visitor-badge.glitch.me/badge?page_id=Thusiya05.Thusiya05)
 </br>
 
 <img src="https://webstockreview.net/images/hello-clipart-hii-1.gif" width="200" height="230">
