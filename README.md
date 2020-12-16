@@ -6,6 +6,10 @@
 </p>
 </br>
 
+### Spotify Playing 🎧
+
+[<img src="https://music.apple.com/library/albums/l.u8wqz2r" alt="Thusiya itune Playing" width="350" />](https://music.apple.com/library/albums/l.u8wqz2r)
+</br>
 <img src="https://webstockreview.net/images/hello-clipart-hii-1.gif" width="200" height="230">
 
 
