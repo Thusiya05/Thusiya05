@@ -14,6 +14,8 @@
 [<img align="left" alt="Thusiya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Thusiya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Thusiya | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Thusiya | Dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-badge.svg" />][dev]
+
 
 </br>
 
